@@ -1,0 +1,25 @@
+17.4.4 
+http://stackoverflow.com/questions/36683271/connect-4-minimax-algorithm-with-alpha-beta-pruning-in-java
+connect four min max 알고리즘 분석
+https://software-talk.org/blog/2012/01/connect4/
+four in row
+
+http://stackoverflow.com/questions/29461184/minimax-code-of-connect-4-to-make-best-move
+min max 알고리즘 분석
+http://cs.stackexchange.com/questions/13453/trying-to-improve-minimax-heuristic-function-for-connect-four-game-in-js
+min max 알고리즘 분석
+ - 휴리스틱 사용 시 가로 세로 비교해서 상대방과 내가이 열에 같은 disc의 
+갯수에 따라 score 변경.
+
+https://nsweeney333.wordpress.com/2013/03/04/java-connect-4-game/
+소스코드 사용
+
+17. 4. 10
+http://msnayana.blog.me/220433811867
+mcts의 사용법
+http://blog.naver.com/ssek2000/220650793661
+mcts의 효율성 알파베타와 비교
+http://blog.naver.com/hellz777/100008156348
+알파베타 커팅법
+https://dke.maastrichtuniversity.nl/m.winands/documents/paper%2049.pdf
+mcts + 알파베타 connect -4 
